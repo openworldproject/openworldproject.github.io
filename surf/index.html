@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<title>Open SURF</title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<link rel="stylesheet" href="opensurf.css" crossorigin="anonymous">
+</head>
+<body class="bg-info">
+	<nav class="navbar navbar-expand-md navbar-dark bg-info fixed-top">
+		<a class="navbar-brand" href="#">Open SURF</a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarsExampleDefault">
+			<ul class="navbar-nav mr-auto">
+				<li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" href="#" id="spots" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Spots</a>
+					<div class="dropdown-menu spot-menu" aria-labelledby="spots">
+						<a data-id="" class="dropdown-item d-none" href="#">Menu Item</a>
+					</div>
+				</li>
+				<li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" href="#" id="projects" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Project</a>
+					<div class="dropdown-menu" aria-labelledby="projects">
+						<a class="dropdown-item" href="http://clappr.io/" target="_blank">
+							Clappr
+						</a>
+						<a class="dropdown-item" href="https://www.windy.com" target="_blank">
+							Windy
+						</a>
+						<a class="dropdown-item" href="https://www.google.com/maps" target="_blank">
+							Google Maps
+						</a>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</nav>
+	<div class="container-fluid main">
+		<div class="row">
+			<div class="col-md-4 p-0">
+				<div class="card text-light bg-info rounded-0 camera">
+					<div class="card-header">Camera</div>
+					<div class="embed-responsive embed-responsive-16by9 bg-dark">
+						<div id="camera" class="embed-responsive-item"></div>
+					</div>
+					<div class="card-body">
+						<h4 class="card-title">Live Streaming</h4>
+						<p class="card-text">
+							Try to see beyond what your eyes can see, happiness can be in the details.
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4 p-0">
+					<div class="card text-light bg-info rounded-0 wave">
+						<div class="card-header">Wave</div>
+						<div class="embed-responsive embed-responsive-16by9 bg-dark">
+							<iframe id="wave" src="about:blank" class="embed-responsive-item" allowfullscreen></iframe>
+						</div>
+						<div class="card-body">
+							<h4 class="card-title">Live Wave Map</h4>
+							<p class="card-text">
+									Take good waves or simply watch the sunset from the sea, renew the energies.
+							</p>
+						</div>
+					</div>
+			</div>
+			<div class="col-md-4 p-0">
+					<div class="card text-light bg-info rounded-0 wind">
+						<div class="card-header">Wind</div>
+						<div class="embed-responsive embed-responsive-16by9 bg-dark">
+							<iframe id="wind" src="about:blank" class="embed-responsive-item" allowfullscreen></iframe>
+						</div>
+						<div class="card-body">
+							<h4 class="card-title">Live Wind Map</h4>
+							<p class="card-text">
+								Go where the good winds take, without fear of the tempest on the way.
+							</p>
+						</div>
+					</div>
+			</div>
+			<div class="col-md-4 p-0">
+					<div class="card text-light bg-info rounded-0 location">
+						<div class="card-header">Location</div>
+						<div class="embed-responsive embed-responsive-16by9 bg-dark">
+							<iframe id="location" src="about:blank" class="embed-responsive-item" allowfullscreen></iframe>
+						</div>
+						<div class="card-body">
+							<h4 class="card-title">Location Map</h4>
+							<p class="card-text">
+								Find the direction of happiness, and feel the good vibrations along the way.
+							</p>
+						</div>
+					</div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/clappr/clappr@latest/dist/clappr.min.js"></script>
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/video-dev/clappr-rtmp-plugin@latest/dist/rtmp.min.js"></script>
+	<script type="text/javascript" src="http://towerz.me/clappr-youtube-playback/j/clappr-youtube-playback.js"></script>
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/clappr.chromecast-plugin/latest/clappr-chromecast-plugin.js"></script>
+	<script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+	<script type="text/javascript" src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="opensurf.js" crossorigin="anonymous"></script>
+</body>
+</html>
