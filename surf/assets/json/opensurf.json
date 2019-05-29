@@ -28,7 +28,7 @@
             "type": "streaming",
             "content": "https://ipc-16.camerite.com/7dias/affbefb0-de4a-11e8-a9e1-57691dcab4c0.stream/chunklist.m3u8"
         },
-        "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d313843.2103607583!2d-42.612835667923825!3d-22.961300016698228!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x975e84822dbca9%3A0x392daea28cc51d34!2sCasa+do+Surf+Ita%C3%BAna!5e0!3m2!1spt-BR!2sbr!4v1559170709397!5m2!1spt-BR!2sbr",
+        "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3678.614252133269!2d-41.91516588503662!3d-22.77969258507659!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96ffe696ffd6f3%3A0x6ecd989e56e0dd93!2sFish+Bone+Restaurante!5e0!3m2!1spt-BR!2sbr!4v1559171482405!5m2!1spt-BR!2sbr",
         "wind": "https://embed.windy.com/embed2.html?lat=-22.796&lon=-41.913&zoom=11&level=surface&overlay=wind&menu=&message=&marker=&calendar=&pressure=&type=map&location=coordinates&detail=&detailLat=-22.839&detailLon=-41.915&metricWind=default&metricTemp=default&radarRange=-1",
         "wave": "https://embed.windy.com/embed2.html?lat=-22.796&lon=-41.911&zoom=11&level=surface&overlay=swell1&menu=&message=&marker=&calendar=&pressure=&type=map&location=coordinates&detail=&detailLat=-22.839&detailLon=-41.915&metricWind=default&metricTemp=default&radarRange=-1"
     },
