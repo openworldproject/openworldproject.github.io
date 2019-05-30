@@ -115,3 +115,16 @@ $(document).ready(function() {
         });
     });
 });
+
+if ('serviceWorker' in navigator && 'PushManager' in window && (window.location.protocol === 'https:' || window.location.hostname === 'localhost')) {
+
+	navigator.serviceWorker.register('./sw.js', {scope:'./'}).then(function(registration) {
+		// console.log('SW Registered');
+		// console.log(registration);
+	});
+
+	navigator.serviceWorker.ready.then(function(registration) {
+		// console.log('SW Ready');
+		// console.log(registratio);
+	});
+}
