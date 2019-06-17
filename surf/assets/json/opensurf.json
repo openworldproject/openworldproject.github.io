@@ -34,5 +34,17 @@
         "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d58857.827314321614!2d-41.9436187158792!3d-22.779694253648735!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6ecd989e56e0dd93!2sFish+Bone+Restaurante!5e0!3m2!1spt-BR!2sbr!4v1560812930177!5m2!1spt-BR!2sbr",
         "wind": "https://embed.windy.com/embed2.html?lat=-22.799&lon=-41.909&zoom=11&level=surface&overlay=wind&menu=&message=&marker=true&calendar=&pressure=&type=map&location=coordinates&detail=&detailLat=-22.909&detailLon=-41.957&metricWind=default&metricTemp=default&radarRange=-1",
         "wave": "https://embed.windy.com/embed2.html?lat=-22.799&lon=-41.909&zoom=11&level=surface&overlay=waves&menu=&message=&marker=true&calendar=&pressure=&type=map&location=coordinates&detail=&detailLat=-22.909&detailLon=-41.957&metricWind=default&metricTemp=default&radarRange=-1"
+    },
+    {
+        "title": "Postinho, Barra da Tijuca",
+        "subtitle": "Rio de Janeiro",
+        "source": {
+            "type": "streaming",
+            "content": "https://ipc-36.camerite.com/7dias/b17e0240-791c-11e7-884a-adc53f3eda18.stream/chunklist.m3u8",
+            "link":"http://www.surfconnect.com.br/postinho/"
+        },
+        "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d29376.39733923663!2d-43.29730941121797!3d-23.021948510387908!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7c0c48685cef667a!2sPostinho+da+Barra!5e0!3m2!1spt-BR!2sus!4v1560814805609!5m2!1spt-BR!2sus",
+        "wind": "https://embed.windy.com/embed2.html?lat=-22.987&lon=-43.308&zoom=11&level=surface&overlay=waves&menu=&message=&marker=&calendar=&pressure=&type=map&location=coordinates&detail=&detailLat=-23.016&detailLon=-43.306&metricWind=default&metricTemp=default&radarRange=-1",
+        "wave": "https://embed.windy.com/embed2.html?lat=-22.987&lon=-43.308&zoom=11&level=surface&overlay=waves&menu=&message=&marker=&calendar=&pressure=&type=map&location=coordinates&detail=&detailLat=-23.016&detailLon=-43.306&metricWind=default&metricTemp=default&radarRange=-1"
     }
 ]
