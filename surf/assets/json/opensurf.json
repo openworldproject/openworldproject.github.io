@@ -7,9 +7,9 @@
             "content": "https://ipc-78.camerite.com/7dias/796fca10-de41-11e8-8f24-9b9b221dbed2.stream/chunklist.m3u8",
             "link":"https://www.surfview.com.br/praia/cabofrio"
         },
-        "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14702.267388884607!2d-42.027996667538865!3d-22.892454041467467!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x971b3b3ef4f6bd%3A0xc3493683df8a12bb!2sPraia+do+Forte!5e0!3m2!1sen!2sbr!4v1559159863295!5m2!1sen!2sbr",
-        "wind": "https://embed.windy.com/embed2.html?lat=-22.895&lon=-41.995&zoom=10&level=surface&overlay=wind&menu=&message=&marker=&calendar=&pressure=&type=map&location=coordinates&detail=&detailLat=-23.030&detailLon=-41.867&metricWind=default&metricTemp=default&radarRange=-1",
-        "wave": "https://embed.windy.com/embed2.html?lat=-22.912&lon=-41.994&zoom=10&level=surface&overlay=swell1&menu=&message=&marker=&calendar=&pressure=&type=map&location=coordinates&detail=&detailLat=-23.030&detailLon=-41.867&metricWind=default&metricTemp=default&radarRange=-1"
+        "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d235167.39354677766!2d-42.04097420527726!3d-22.932348694830992!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x971b3439fa5015%3A0xc004e14cc4583b75!2sResidencial+Porto+Pr%C3%ADncipe!5e0!3m2!1spt-BR!2sbr!4v1560813453067!5m2!1spt-BR!2sbr",
+        "wind": "https://embed.windy.com/embed2.html?lat=-22.931&lon=-42.014&zoom=11&level=surface&overlay=wind&menu=&message=&marker=true&calendar=&pressure=&type=map&location=coordinates&detail=&detailLat=-22.954&detailLon=-41.956&metricWind=default&metricTemp=default&radarRange=-1",
+        "wave": "https://embed.windy.com/embed2.html?lat=-22.931&lon=-42.014&zoom=11&level=surface&overlay=waves&menu=&message=&marker=true&calendar=&pressure=&type=map&location=coordinates&detail=&detailLat=-22.954&detailLon=-41.956&metricWind=default&metricTemp=default&radarRange=-1"
     },
     {
         "title": "Saquarema",
@@ -20,31 +20,19 @@
             "link":"https://www.surfview.com.br/praia/saquarema"
         },
         "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d313843.2103607583!2d-42.612835667923825!3d-22.961300016698228!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x975e84822dbca9%3A0x392daea28cc51d34!2sCasa+do+Surf+Ita%C3%BAna!5e0!3m2!1spt-BR!2sbr!4v1559170709397!5m2!1spt-BR!2sbr",
-        "wind": "https://embed.windy.com/embed2.html?lat=-22.962&lon=-42.469&zoom=11&level=surface&overlay=wind&menu=&message=&marker=&calendar=&pressure=&type=map&location=coordinates&detail=&detailLat=-22.962&detailLon=-42.469&metricWind=default&metricTemp=default&radarRange=-1",
-        "wave": "https://embed.windy.com/embed2.html?lat=-22.939&lon=-42.468&zoom=11&level=surface&overlay=swell1&menu=&message=&marker=&calendar=&pressure=&type=map&location=coordinates&detail=&detailLat=-22.962&detailLon=-42.469&metricWind=default&metricTemp=default&radarRange=-1"
+        "wind": "https://embed.windy.com/embed2.html?lat=-22.939&lon=-42.468&zoom=11&level=surface&overlay=wind&menu=&message=&marker=true&calendar=&pressure=&type=map&location=coordinates&detail=&detailLat=-22.939&detailLon=-42.468&metricWind=default&metricTemp=default&radarRange=-1",
+        "wave": "https://embed.windy.com/embed2.html?lat=-22.939&lon=-42.468&zoom=11&level=surface&overlay=waves&menu=&message=&marker=true&calendar=&pressure=&type=map&location=coordinates&detail=&detailLat=-22.939&detailLon=-42.468&metricWind=default&metricTemp=default&radarRange=-1"
     },
     {
         "title": "Geribá",
         "subtitle": "Búzios",
         "source": {
             "type": "streaming",
-            "content": "https://ipc-16.camerite.com/7dias/affbefb0-de4a-11e8-a9e1-57691dcab4c0.stream/chunklist.m3u8",
+            "content": "https://ipc-29.camerite.com/7dias/affbefb0-de4a-11e8-a9e1-57691dcab4c0.stream/chunklist.m3u8",
             "link":"https://www.surfview.com.br/praia/geriba"
         },
-        "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3678.614252133269!2d-41.91516588503662!3d-22.77969258507659!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96ffe696ffd6f3%3A0x6ecd989e56e0dd93!2sFish+Bone+Restaurante!5e0!3m2!1spt-BR!2sbr!4v1559171482405!5m2!1spt-BR!2sbr",
-        "wind": "https://embed.windy.com/embed2.html?lat=-22.796&lon=-41.913&zoom=11&level=surface&overlay=wind&menu=&message=&marker=&calendar=&pressure=&type=map&location=coordinates&detail=&detailLat=-22.839&detailLon=-41.915&metricWind=default&metricTemp=default&radarRange=-1",
-        "wave": "https://embed.windy.com/embed2.html?lat=-22.796&lon=-41.911&zoom=11&level=surface&overlay=swell1&menu=&message=&marker=&calendar=&pressure=&type=map&location=coordinates&detail=&detailLat=-22.839&detailLon=-41.915&metricWind=default&metricTemp=default&radarRange=-1"
-    },
-    {
-        "title": "Even Flow",
-        "subtitle": "Red Filter Cover",
-        "source": {
-            "type": "youtube",
-            "content": "AL2naHvo6d4",
-            "link": "https://www.youtube.com/watch?v=AL2naHvo6d4"
-        },
-        "location": "about:blank",
-        "wind": "about:blank",
-        "wave": "about:blank"
+        "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d58857.827314321614!2d-41.9436187158792!3d-22.779694253648735!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6ecd989e56e0dd93!2sFish+Bone+Restaurante!5e0!3m2!1spt-BR!2sbr!4v1560812930177!5m2!1spt-BR!2sbr",
+        "wind": "https://embed.windy.com/embed2.html?lat=-22.799&lon=-41.909&zoom=11&level=surface&overlay=wind&menu=&message=&marker=true&calendar=&pressure=&type=map&location=coordinates&detail=&detailLat=-22.909&detailLon=-41.957&metricWind=default&metricTemp=default&radarRange=-1",
+        "wave": "https://embed.windy.com/embed2.html?lat=-22.799&lon=-41.909&zoom=11&level=surface&overlay=waves&menu=&message=&marker=true&calendar=&pressure=&type=map&location=coordinates&detail=&detailLat=-22.909&detailLon=-41.957&metricWind=default&metricTemp=default&radarRange=-1"
     }
 ]
