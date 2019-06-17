@@ -1,4 +1,4 @@
-let swCache = 'opensurf-sw-v1';
+let swCache = 'opensurf-sw-v2';
 
 self.addEventListener('install', event => {
 
