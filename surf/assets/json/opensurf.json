@@ -1,7 +1,7 @@
 [
     {
-        "title": "Praia do Forte",
-        "subtitle": "Cabo Frio",
+        "title": "Praia do Forte, Cabo Frio",
+        "subtitle": "Rio de Janeiro",
         "source": {
             "type": "streaming",
             "content": "https://ipc-78.camerite.com/7dias/796fca10-de41-11e8-8f24-9b9b221dbed2.stream/chunklist.m3u8",
@@ -12,8 +12,8 @@
         "wave": "https://embed.windy.com/embed2.html?lat=-22.931&lon=-42.014&zoom=11&level=surface&overlay=waves&menu=&message=&marker=true&calendar=&pressure=&type=map&location=coordinates&detail=&detailLat=-22.954&detailLon=-41.956&metricWind=default&metricTemp=default&radarRange=-1"
     },
     {
-        "title": "Saquarema",
-        "subtitle": "Itaúna",
+        "title": "Saquarema, Itaúna",
+        "subtitle": "Rio de Janeiro",
         "source": {
             "type": "streaming",
             "content": "https://ipc-78.camerite.com/7dias/2fea0e80-de48-11e8-8f24-9b9b221dbed2.stream/chunklist.m3u8",
@@ -24,8 +24,8 @@
         "wave": "https://embed.windy.com/embed2.html?lat=-22.939&lon=-42.468&zoom=11&level=surface&overlay=waves&menu=&message=&marker=true&calendar=&pressure=&type=map&location=coordinates&detail=&detailLat=-22.939&detailLon=-42.468&metricWind=default&metricTemp=default&radarRange=-1"
     },
     {
-        "title": "Geribá",
-        "subtitle": "Búzios",
+        "title": "Geribá, Búzios",
+        "subtitle": "Rio de Janeiro",
         "source": {
             "type": "streaming",
             "content": "https://ipc-29.camerite.com/7dias/affbefb0-de4a-11e8-a9e1-57691dcab4c0.stream/chunklist.m3u8",
